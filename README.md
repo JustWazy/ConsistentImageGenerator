@@ -1,4 +1,4 @@
-[Klik di sini untuk membuka notebook](https://colab.research.google.com/drive/1_P5oNfyoCw0SgjAKTdtnnVYv2j3GXInR)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_P5oNfyoCw0SgjAKTdtnnVYv2j3GXInR)
 
 # Stable Diffusion XL Custom Script  🚀
 Repository ini berisi custom script teroptimasi untuk **Stable Diffusion XL 1.0** dengan manajemen memori, konsistensi karakter, image-to-image reference, dan kontrol dinamis.
