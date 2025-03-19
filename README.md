@@ -1,5 +1,5 @@
-# Stable Diffusion XL Built-in Script  🚀
-Repository ini berisi built-in script teroptimasi untuk **Stable Diffusion XL 1.0** dengan manajemen memori, konsistensi karakter, image-to-image reference, dan kontrol dinamis.
+# Stable Diffusion XL Custom Script  🚀
+Repository ini berisi custom script teroptimasi untuk **Stable Diffusion XL 1.0** dengan manajemen memori, konsistensi karakter, image-to-image reference, dan kontrol dinamis.
 
 ## Benchmark Google Colab (T4 GPU) 🏎
 |Resolusi    |Langkah |VRAM Usage  | Waktu   |
